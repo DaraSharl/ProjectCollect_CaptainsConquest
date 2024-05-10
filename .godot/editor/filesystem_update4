@@ -1,0 +1,9 @@
+res://world.tscn
+res://ship.gd
+res://land.tres
+res://scripts/ship.gd
+res://game.tscn
+res://scripts/filemngr.gd
+res://scripts/monitor.gd
+res://title.tscn
+res://scripts/auto.gd
